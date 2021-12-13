@@ -1,4 +1,4 @@
-# Bus Stop Tracker
+#Bus Stop Tracker
 
 The Real Time Bus Tracker plays an animation that shows all the bus stops between MIT and Harvard.
 
